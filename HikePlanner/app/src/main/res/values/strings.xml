@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Hike Planner</string>
+    <string name="name">Név</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="password">Jelszó</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="customer">Felhasználó</string>
+    <string name="advertiser">Hirdető</string>
+    <string name="product_description">Termék leírás</string>
+    <string name="name_placeholder">Túra</string>
+    <string name="description_placeholder">Leírás</string>
+    <string name="to_cart">Foglalás</string>
+    <string name="delete">Törlés</string>
+    <string name="guest_login">Folytatás vendégként</string>
+    <string name="person_name_placeholder">Közzétevő</string>
+    <string name="app_title">Hike Planner</string>
+
+
+    <string-array name="hike_item_names">
+        <item>Sötétvölgy</item>
+        <item>Mecsek</item>
+        <item>Balaton-felvidék</item>
+        <item>Zemplén</item>
+        <item>Rám-szakadék</item>
+        <item>Szalajka-völgy</item>
+        <item>Diósjenőről Csóványosra túra</item>
+        <item>Pannonhalmi arborétum körtúra</item>
+        <item>Fehér-völgy</item>
+        <item>Varázsvölgy</item>
+    </string-array>
+
+    <string-array name="hike_item_creators">
+        <item>kobcikrajci</item>
+        <item>Mikulás</item>
+        <item>VP</item>
+        <item>kupec</item>
+        <item>Csaba és családja</item>
+        <item>kl</item>
+        <item>SirLes</item>
+        <item>Fazék</item>
+        <item>nmárti</item>
+        <item>Liberty</item>
+    </string-array>
+
+    <string-array name="hike_item_desc">
+        <item>Kellemes rövidtúra Bonyhád mellett minimális szintemelkedéssel.</item>
+        <item>A leggyorsabb út a csúcsig.</item>
+        <item>Nagyszerű Balaton-felvidéki túra, amely kilátásban és kulturális látnivalókban is bővelkedik.</item>
+        <item>Kellemes körtúra a Füzéri vár megközelítésével.</item>
+        <item>Magyarország egyik legnépszerűbb egyirányú túraútvonala, a Rám-szakadék.</item>
+        <item>Kellemes könnyed családi gyalogtúra Szilvásváradról a Szalajka-völgyben.</item>
+        <item>Kerüld a tömeget a Királyréten! Alternatív Csóványos túra.</item>
+        <item>Különleges növények a világ minden tájáról</item>
+        <item>A Fehér-völgyből az Őz-sziklára, majd onnan a Palánkos-völgybe vezető túra a könnyebb tátrai túrák közé tartozik.</item>
+        <item>Izgalmas túra a Varázsvölgyből indulva az Árpád-kúthoz, majd a Lila-hegyi kilátóhoz.</item>
+    </string-array>
+
+    <array name="hike_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="hike_item_price">
+        <item>10,4 km</item>
+        <item>18,6 km</item>
+        <item>7,2 km</item>
+        <item>21,3 km</item>
+        <item>14,9 km</item>
+        <item>26,4 km</item>
+        <item>13,6 km</item>
+        <item>11,7 km</item>
+        <item>29,3 km</item>
+        <item>21,1 km</item>
+    </array>
+
+</resources>

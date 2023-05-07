@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472335509730",
+    "project_id": "hikeplanner-3a1f3",
+    "storage_bucket": "hikeplanner-3a1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472335509730:android:f7aa299d95763ede5056bb",
+        "android_client_info": {
+          "package_name": "com.example.hikeplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472335509730-3id6i3p2kmlh1b6tqs8m7j6s9hn59v72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hikeplanner",
+            "certificate_hash": "5afd75fd4c0109cf0b729964518d24177f9d3deb"
+          }
+        },
+        {
+          "client_id": "472335509730-q3c1r3v4i7shd009irchvfcke2cobf7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFnYArvyqIPEKonysE7Dar3bW42tqp2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472335509730-q3c1r3v4i7shd009irchvfcke2cobf7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
